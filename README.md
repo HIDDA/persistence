@@ -1,2 +1,2 @@
-# persistence
-Supplementary R package for the book chapter "Persistence of Passive Immunity, Natural Immunity (and Vaccination)" 
+### Persistence of Passive Immunity, Natural Immunity (and Vaccination)
+by Amy K Winter and C. Jessica E. Metcalf
